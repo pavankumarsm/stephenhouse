@@ -1,0 +1,37 @@
+/* Detail.css */
+* {
+  font-family: "Open Sans", sans-serif;
+}
+.contain2 {
+  background-color: rgb(65, 109, 149);
+  height: 55vh;
+  margin-bottom: 40vh;
+}
+
+.items a {
+  font-size: 17px;
+  line-height: 2;
+  cursor: pointer;
+  color: white !important;
+  text-decoration: none !important;
+}
+
+.under a {
+  color: white !important;
+  text-decoration: none !important;
+  padding-left: 50px;
+  margin-top: 20px;
+  font-size: 17px;
+}
+
+.under h2 {
+  padding-left: 50px;
+}
+
+.row1 h2 {
+  color: white;
+}
+
+.row1 li {
+  color: white;
+}

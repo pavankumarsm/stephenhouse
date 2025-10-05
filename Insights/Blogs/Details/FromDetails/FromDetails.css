@@ -1,0 +1,17 @@
+.delivery1 {
+  font-size: 18px;
+}
+.textprimary {
+  color: rgb(39, 97, 149, 1);
+  font-weight: 650;
+  padding-top: 7vh;
+  padding-bottom: 1vh;
+}
+.custombtn {
+  background-color: rgb(39, 97, 149, 1) !important;
+  color: white;
+  border: none;
+  padding: 10px 120px;
+  border-radius: 5px;
+  font-weight: bold;
+}

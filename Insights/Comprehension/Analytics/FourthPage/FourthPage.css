@@ -1,0 +1,75 @@
+* {
+  font-family: "Open Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+  font-variation-settings: "wdth" 100;
+}
+
+.Fourth-container {
+  margin-top: -230vh;
+}
+
+.Fourth3 {
+  background-color: rgba(242, 242, 242, 100);
+}
+
+.Fourth4 h1 {
+  font-size: 45px;
+  margin-top: 7vh;
+  margin-bottom: 3vh;
+  font-weight: lighter;
+}
+.Fourth5 {
+  font-size: 22px;
+  font-weight: bold;
+}
+.Fourth5 span {
+  color: rgb(17, 176, 17);
+  text-decoration: underline;
+  margin-left: 3vw;
+  font-size: 15px;
+  font-weight: bold;
+}
+.Fourth6 {
+  font-size: 22px;
+  font-weight: 520;
+  margin-bottom: 10vh;
+}
+
+@media screen and (max-width: 430px) {
+  .Fourth-container {
+    margin-top: -95vh;
+  }
+
+  .Fourth2 p {
+    font-size: 25px;
+  }
+  .Fourth4 h1 {
+    font-size: 35px;
+  }
+  .Fourth5 {
+    font-size: 16px;
+    font-weight: bold;
+  }
+  .Fourth5 span {
+    color: rgb(17, 176, 17);
+    text-decoration: underline;
+    margin-left: 3vw;
+    font-size: 10px;
+    font-weight: bold;
+  }
+
+  .Fourth6 {
+    font-size: 16px;
+  }
+}
+@media screen and (max-width: 768px) {
+  .Fourth-container {
+    margin-top: -25vh;
+  }
+}
+@media screen and (max-width: 1024px) {
+  .Fourth-container {
+    margin-top: -110vh;
+  }
+}
